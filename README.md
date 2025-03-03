@@ -35,7 +35,7 @@ Built with **JSP, Java, MySQL, and Tailwind CSS**, it ensures **fair market acce
 
 1️⃣ **Clone the Repository:**  
 ```sh
-git clone https://github.com/RameshBandari26/Assured-Contract-Farming-System.git
+git clone https://github.com/Srinadh0219/Assured-Contract-Farming-System.git
 cd Assured-Contract-Farming-System
 ```
 
@@ -59,7 +59,7 @@ We welcome contributions! Follow these steps:
 ---
 
 ## 📩 Contact & Support  
-🔹 **GitHub:** [@RameshBandari26](https://github.com/RameshBandari26)  
+🔹 **GitHub:** [@Srinadh0219](https://github.com/RameshBandari26)  
 
 ---
 
